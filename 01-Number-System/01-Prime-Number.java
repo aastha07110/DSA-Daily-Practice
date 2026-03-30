@@ -1,6 +1,9 @@
 // Problem: Check whether a number is prime or not
 // Concept: Loop + Square Root Optimization
 
+import java.util.*;
+
+
 public class PrimeNumber{
   public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
