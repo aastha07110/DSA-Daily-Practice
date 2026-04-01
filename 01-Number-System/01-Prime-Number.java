@@ -1,5 +1,7 @@
 // Problem: Check whether a number is prime or not
 // Concept: Loop + Square Root Optimization
+// Time Complexity: O(√n) due to square root optimization
+// Space Complexity: O(1)
 
 import java.util.*;
 
