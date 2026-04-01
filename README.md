@@ -21,3 +21,4 @@ This repository contains my daily Data Structures & Algorithms practice in Java,
 |-----|--------|------|
 | Day 1 | [Prime Number](01-Number-System/01-Prime-Number.java) | Number System |
 | Day 1 | [Factorial](01-Number-System/02-Factorial.java) | Number System |
+| Day 2 | [Palindrome Number](01-Number-System/03-Palindrome-Number.java) | Number System |
