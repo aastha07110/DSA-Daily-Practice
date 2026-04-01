@@ -9,3 +9,4 @@ This folder contains basic number-related problems implemented in Java.
 | 1 | Prime Number | Loop, Square Root Optimization |
 | 2 | Factorial | Recursion |
 | 3 | Palindrome Number | Reverse no using loops, modulo, division |
+| 4 | Reverse Digits | Modulo (%) and division (/) with loop |
