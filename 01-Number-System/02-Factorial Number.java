@@ -1,5 +1,8 @@
 // Problem: Find factorial of a number
 // Concept: Recursion, Iterative
+// Time Complexity: Iterative: O(n), Recurive: O(n)
+// Space Complexity: Iterative: O(n), Recursive: O(n)
+
 
 import java.util.*;
 
