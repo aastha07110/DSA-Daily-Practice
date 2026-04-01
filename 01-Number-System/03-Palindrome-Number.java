@@ -1,5 +1,7 @@
 // Problem: Check whether a number is palindrome or not
 // Concept: Reverse number using loop, modulo (%) and division (/)
+// Time Complexity: O(d) where d = number of digits
+// Space Complexity: O(1)
 
 
 import java.util.*;
