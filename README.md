@@ -25,3 +25,4 @@ This repository contains my daily Data Structures & Algorithms practice in Java,
 | Day 2 | [Reverse Digits](01-Number-System/04-Reverse-Digits.java) | Number System |
 | Day 3 | [GCD of two nos.](01-Number-System/05-GCD.java) | Number System |
 | Day 3 | [LCM of two nos.](01-Number-System/06-LCM.java) | Number System |
+| Day 4 | [Armstrong Number](01-Number-System/07-Armstrong-Number.java) | Number System |
