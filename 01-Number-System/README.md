@@ -12,3 +12,4 @@ This folder contains basic number-related problems implemented in Java.
 | 4 | Reverse Digits | Modulo (%) and division (/) with loop |
 | 5 | GCD of two nos. | Euclidean Algorithm using modulo (%) and loop |
 | 6 | LCM of two nos. | Use relation LCM(a,b) = (a*b) / GCD(a,b) |
+| 7 | Armstrong Number | Extract digits using modulo (%) and raise to power of number of digits |
