@@ -26,4 +26,5 @@ This repository contains my daily Data Structures & Algorithms practice in Java,
 | Day 3 | [GCD of two nos.](01-Number-System/05-GCD.java) | Number System |
 | Day 3 | [LCM of two nos.](01-Number-System/06-LCM.java) | Number System |
 | Day 4 | [Armstrong Number](01-Number-System/07-Armstrong-Number.java) | Number System |
-| Day 4 | [Even/Odd Without Modulus](01-Number-System/08-Even-Odd-Without-Modulus) | Number System |
+| Day 4 | [Even/Odd Without Modulus](01-Number-System/08-Even-Odd-Without-Modulus.java) | Number System |
+| Day 5 | [Sum of the Digits](01-Number-System/09-Sum-of-Digits.java) | Number System |
