@@ -14,3 +14,4 @@ This folder contains basic number-related problems implemented in Java.
 | 6 | LCM of two nos. | Use relation LCM(a,b) = (a*b) / GCD(a,b) |
 | 7 | Armstrong Number | Extract digits using modulo (%) and raise to power of number of digits |
 | 8 | Even/Odd without Modulus | Use bitwise AND (&) to check last bit (LSB) | 
+| 9 | Sum of the Digits | Use modulo (%) to extract digits and division (/) to remove digits | 
