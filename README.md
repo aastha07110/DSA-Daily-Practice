@@ -28,3 +28,4 @@ This repository contains my daily Data Structures & Algorithms practice in Java,
 | Day 4 | [Armstrong Number](01-Number-System/07-Armstrong-Number.java) | Number System |
 | Day 4 | [Even/Odd Without Modulus](01-Number-System/08-Even-Odd-Without-Modulus.java) | Number System |
 | Day 5 | [Sum of the Digits](01-Number-System/09-Sum-of-Digits.java) | Number System |
+| Day 6 | [Sum of first N natural nos.](01-Number-System/10-Sum-Of-First-n-Natural-Numbers.java) | Number System |
