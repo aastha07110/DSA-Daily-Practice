@@ -15,3 +15,4 @@ This folder contains basic number-related problems implemented in Java.
 | 7 | Armstrong Number | Extract digits using modulo (%) and raise to power of number of digits |
 | 8 | Even/Odd without Modulus | Use bitwise AND (&) to check last bit (LSB) | 
 | 9 | Sum of the Digits | Use modulo (%) to extract digits and division (/) to remove digits | 
+| 10 | Sum of First n Natural Numbers | Use a loop to add numbers from 1 to n |
