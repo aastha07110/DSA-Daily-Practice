@@ -30,3 +30,4 @@ This repository contains my daily Data Structures & Algorithms practice in Java,
 | Day 5 | [Sum of the Digits](01-Number-System/09-Sum-of-Digits.java) | Number System |
 | Day 6 | [Sum of first N natural nos.](01-Number-System/10-Sum-Of-First-n-Natural-Numbers.java) | Number System |
 | Day 7 | [Divisors of a number](01-Number-System/11-Divisors-Of-Number.java) | Number System |
+| Day 8 | [Perfect Number](01-Number-System/12-Perfect-Number.java) | Number System |
