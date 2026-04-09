@@ -17,3 +17,4 @@ This folder contains basic number-related problems implemented in Java.
 | 9 | Sum of the Digits | Use modulo (%) to extract digits and division (/) to remove digits | 
 | 10 | Sum of First n Natural Numbers | Use a loop to add numbers from 1 to n |
 | 11 | Divisors of a Number | Loop till square root and use divisor pairs (i and n/i) |
+| 12 | Perfect Number | Sum all proper divisors (excluding the number itself) |
