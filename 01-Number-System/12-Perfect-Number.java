@@ -1,7 +1,7 @@
-// Problem:
-// Concept:
-// Time Complexity:
-// Space Complexity:
+// Problem: Check whether a number is a Perfect Number
+// Concept: Sum all proper divisors (excluding the number itself)
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 
 
 import java.util.*;
@@ -20,9 +20,9 @@ public class PerfectNumber{
       }
     }
     if(sum == n){
-      System.out.println(n + "is perfect");
+      System.out.println(n + " is perfect");
     } else{
-      System.out.println(n + "x");
+      System.out.println(n + " is not perfect");
     }
     sc.close();
   }
