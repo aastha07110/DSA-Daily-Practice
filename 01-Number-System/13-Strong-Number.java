@@ -1,8 +1,7 @@
-// Problem:
-// Concept: 
-// Time Complexity:
-// Space Complexity:
-
+// Problem: Check whether a number is a Strong Number
+// Concept: Sum of factorial of digits equals the number
+// Time Complexity: O(d * k) ≈ O(d) (k = digit factorial cost, constant)
+// Space Complexity: O(1)
 
 import java.util.*;
 
