@@ -1,7 +1,7 @@
-// Problem:
-// Concept: 
-// Time Complexity:
-// Space Complexity:
+// Problem: Count number of digits in a number
+// Concept: Divide number by 10 repeatedly until it becomes 0
+// Time Complexity: O(d) ≈ O(log n)
+// Space Complexity: O(1)
 
 
 import java.util.*;
