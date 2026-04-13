@@ -15,5 +15,18 @@ public class CountDigits{
 
     int count = 0;
     int temp = n;
+
+    if(n == 0){
+      count = 1;
+    } else {
+      if(n<0){
+        n == n;
+      }
+      while(n>0){
+        n=n/10;
+        count;
+      }
+    }
+    System.out.println(count);
   }
 }
