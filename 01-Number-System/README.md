@@ -19,3 +19,4 @@ This folder contains basic number-related problems implemented in Java.
 | 11 | Divisors of a Number | Loop till square root and use divisor pairs (i and n/i) |
 | 12 | Perfect Number | Sum all proper divisors (excluding the number itself) |
 | 13 | Strong Number | Sum of factorial of digits equals the number |
+| 14 | Count Digits | Divide number by 10 repeatedly until it becomes 0 |
