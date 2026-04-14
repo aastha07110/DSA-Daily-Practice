@@ -1,7 +1,7 @@
-// Problem:
-// Concept:
-// Time Complexity:
-// Space Complexity:
+// Problem: Swap two numbers without using a third variable
+// Concept: Use arithmetic operations (addition and subtraction)
+// Time Complexity: O(1)
+// Space Complexity: O(1)
 
 
 import java.util.*;
