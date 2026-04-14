@@ -20,3 +20,4 @@ This folder contains basic number-related problems implemented in Java.
 | 12 | Perfect Number | Sum all proper divisors (excluding the number itself) |
 | 13 | Strong Number | Sum of factorial of digits equals the number |
 | 14 | Count Digits | Divide number by 10 repeatedly until it becomes 0 |
+| 15 | Swap without Temp | Use arithmetic operations (addition and subtraction) |
