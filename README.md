@@ -34,3 +34,4 @@ This repository contains my daily Data Structures & Algorithms practice in Java,
 | Day 9 | [Strong Number](01-Number-System/13-Strong-Number.java) | Number System |
 | Day 10 | [Count Digits](01-Number-System/14-Count-Digits.java) | Number System | 
 | Day 11 | [Swap Without Temp](01-Number-System/15-Swap-without-Temp.java) | Number System | 
+| Day 12 | [Power Of 2](01-Number-System/16-Power-Of-2.java) | Number System | 
