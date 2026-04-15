@@ -1,7 +1,7 @@
 // Problem: Check if a number is a power of 2
 // Concept: Keep dividing by 2 until number becomes 1 or not divisible
-// Time Complexity: 
-// Space Complexity:
+// Time Complexity: O(log n)
+// Space Complexity: O(1)
 
 
 import java.util.*;
